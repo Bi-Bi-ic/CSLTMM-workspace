@@ -1,5 +1,5 @@
 # CSLTMM-workspace
 
-* [Chương 1](./chuong1/README.md)
-* [Chương 2](./chuong2/README.md)
-* [Chứng Minh (chưa hoàn thiện)](./chungminh/README.md)
+* [Chương 1](./chuong1)
+* [Chương 2](./chuong2)
+* [Chứng Minh (chưa hoàn thiện)](./chungminh)
